@@ -1,0 +1,31 @@
+body {
+   font-family: Arial;
+   font size: 2em;
+ }
+  nav:hover { 
+    color: blue;
+ }
+ p::first-line {
+   color: red
+ }
+img {
+  float: center;
+ }
+aside.absolute {
+   position: absolute;
+   left: 10px;
+}
+title.relative {
+    position: relative;
+    left: 40px
+ }
+#h2 {
+  font color: green;
+  text -align: center;
+}
+.h1 {
+  text-align: center;
+  font-color: green;
+ p {
+ 	color: black;
+}
